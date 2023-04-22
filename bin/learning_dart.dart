@@ -1,11 +1,11 @@
-// import 'modules/variables.dart' as variables;
+import 'modules/variables.dart' as variables;
 import 'modules/lists.dart' as lists;
-// import 'modules/operators.dart' as operators;
-// import 'modules/metadata.dart' as metadata;
+import 'modules/operators.dart' as operators;
+import 'modules/metadata.dart' as metadata;
 
 void main(List<String> args) {
-  // variables.run();
+  variables.run();
   lists.run();
-  // operators.run();
-  // metadata.run();
+  operators.run();
+  metadata.run();
 }
