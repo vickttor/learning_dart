@@ -103,7 +103,7 @@ void run() {
 
   // It's possible to define the constants values in the assignment
   var foo = const [];
-  const bar = 2;
+  const num bar = 2;
   const baz = []; // equivalent to const []
 
   // foo = 10; This will not work;
