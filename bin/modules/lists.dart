@@ -1,4 +1,6 @@
 void run() {
+  print("\n\n ===== LISTS ====\n");
+
   List<String> names = ["Victor", "Caio", "Lincon"];
 
   // Filtering the List;
