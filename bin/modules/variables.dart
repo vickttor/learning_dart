@@ -116,7 +116,7 @@ void run() {
   foo = [
     "Hi",
     "Bye"
-  ]; // Inother hand if the type of the variable was List<int> this line will not work.
+  ]; // In other hand if the type of the variable was List<int> this line will not work.
 
   const Object i = 3; // Where i is a const Object with an int value...
   const list2 = [i as int]; // Use a typecast.
